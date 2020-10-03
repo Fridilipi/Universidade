@@ -1,0 +1,2 @@
+export const SET_DATA_FORM_LOGIN = "[LOGIN] SET_DATA_FORM_LOGIN";
+export const SET_DATA_LOGIN = "[LOGIN] SET_DATA_LOGIN";
